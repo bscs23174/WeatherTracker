@@ -5,4 +5,4 @@ Real Time Weather Update
 User Friendly Interface
 City Search Funtionality
 # Tools
-HTML , CSS, JAVASCRIPT
+HTML , CSS, JAVASCRIPTD
